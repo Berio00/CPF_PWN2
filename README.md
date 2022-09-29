@@ -18,9 +18,11 @@ $ python CPF_PWN2.py
 
 # Requisitos
 
-Python
+* Python
+
 $ sudo apt install python3 -y
 
-TERMUX
+* TERMUX
+
 $ pkg install python3 -y
 
