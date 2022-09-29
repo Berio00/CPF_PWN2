@@ -4,7 +4,7 @@
 # Script para puxar dados pelo CPF usando API do SuS ~ DKR and D3m0l1d0r
  
 __author__ =  "Jonatas Fil a.k.a DKR and D3m0l1d0r"
-__edit__ = "Dr4ux by Annony"
+__edit__ = "Dr4ux0 by Annony"
 import requests,json,sys,os
 
 
