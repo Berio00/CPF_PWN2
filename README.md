@@ -1,4 +1,4 @@
-# CPF_PWN2
+O# CPF_PWN2
 Este é uma atualização do CPF_PWN original para uma versão melhorada.
 
 # Oque mudou?
@@ -10,8 +10,17 @@ Este é uma atualização do CPF_PWN original para uma versão melhorada.
 * ...
 
 # Como baixar?
-Passe no terminal
+Passe no terminal;
 
-git clone gihub
+Faça o download do arquivo.
+Em seguida passe no terminal
+$ python CPF_PWN2.py
 
+# Requisitos
+
+Python
+$ sudo apt install python3 -y
+
+TERMUX
+$ pkg install python3 -y
 
